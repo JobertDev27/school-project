@@ -67,7 +67,7 @@ th, td {
 }
 
 #landing-page {
-    background-image: url("/asset/bg1.jpg");
+    background-image: url("asset/bg1.jpg");
     background-repeat: no-repeat;
     background-size: cover;
 }
@@ -110,7 +110,7 @@ th, td {
     margin-bottom: 20px;
 }
 .services-right {
-    background-image: url("/asset/bg2.jpg");
+    background-image: url("asset/bg2.jpg");
     background-position: right;
     background-size: contain;
     background-repeat: no-repeat;
